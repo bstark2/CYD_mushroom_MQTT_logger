@@ -1,0 +1,7 @@
+{
+  "name": "StatusLED",
+  "version": "0.1.0",
+  "description": "Non-blocking RGB status indicator for CYD (ESP32-2432S028R) onboard LED",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
